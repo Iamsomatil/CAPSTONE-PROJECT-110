@@ -1,0 +1,21 @@
+body{
+    background-color: hsl(218, 28%, 13%);
+    color: white;
+    font-weight: 200;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13%;
+}
+/* If the screen is more than 600px wide, set the font-size od <div> to 80px */
+    @media screen and (max-width: 768px) {
+        
+    }
+
+   
+  
